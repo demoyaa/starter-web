@@ -23,4 +23,4 @@ Please fork this repo and the issue pull request for review.
 
 ### Copyright
 
-2022 Angel De Moya
+2022 Angel De Moya. All Rights Reserved
