@@ -3,12 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
     Angel De Moya   demoyaa@gmail.com
 
 # THANKS
 
-    <name>
+    TO Jason Taylor
 
 # TECHNOLOGY COLOPHON
 
