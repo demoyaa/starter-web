@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Angel De Moya   demoyaa@gmail.com
 
 # THANKS
 
